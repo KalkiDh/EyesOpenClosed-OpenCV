@@ -6,11 +6,8 @@ A simple Python project that uses your laptop’s camera and OpenCV to detect in
 
 ## Demo
 
-![Demo GIF](sreenshot/Eyeclosed.gif)
-<!-- Replace with your actual demo GIF or screenshot -->
-<!-- Example static image: -->
-<!-- ![Screenshot](images/demo_screenshot.png) -->
-
+<img src="screenshot/Eyeclosed.png" width="400"> 
+<img src="screenshot/Eyes open.png" width="400"> 
 ---
 
 ## Features
